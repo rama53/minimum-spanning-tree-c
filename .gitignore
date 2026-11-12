@@ -1,0 +1,17 @@
+# Build products
+*.o
+*.obj
+*.exe
+*.out
+/mst
+/bin/
+/obj/
+/build/
+
+# Local editor and operating system state
+*.depend
+*.layout
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
